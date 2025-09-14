@@ -1,16 +1,31 @@
-## Hi there 👋
+## Leonardo Vinicius 
 
-<!--
-**leonardo2005-s/leonardo2005-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou o Leonardo! 
 
-Here are some ideas to get you started:
+🎯 Sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul 
+
+Focado em desenvolvimento front-end 
+
+Ainda não tenho domínio em tecnologias da área, mas estou disposto a aprender e praticar todos os dias 🚀 
+
+💻 Tecnologias em aprendizagem 
+
+Front-end: HTML, CSS, JavaScript 
+
+Em breve: React.js, Node.js 
+
+Ferramentas: VSCode, Git, GitHub 
+
+🚀 Objetivos 
+
+Desenvolver projetos práticos para evoluir no front-end 
+
+Conquiste minha primeira oportunidade em TI 
+
+🔗 Conecte-se comigo 
+
+Linkedin: Leonardo Vinícius Moraes De Lima 
+
+✉️ E-mail: leonardovini0007@gmail.com 
