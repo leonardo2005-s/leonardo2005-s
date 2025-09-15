@@ -22,7 +22,7 @@ Ferramentas: VSCode, Git, GitHub
 
 Desenvolver projetos práticos para evoluir no front-end 
 
-Conquiste minha primeira oportunidade em TI 
+Conquistar minha primeira oportunidade em TI 
 
 🔗 Conecte-se comigo 
 
